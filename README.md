@@ -11,6 +11,8 @@ Pour épater la galerie, ne passez pas à côté de cet objet collector créé p
 Nous allons voir ici comment la réaliser 
 http://www.geektoolbox.fr/2010/08/14/daftouf-table-kit-arduino-daft-punk-table/
 
+http://www.youtube.com/watch?feature=player_embedded&v=1AoURgt6OxY
+
 Composants :
 
 125 Leds Rouges 4.000 mcd V-LumTech / Angle de diffusion 120° / Taille de la led 5mm / Alimentation électrique 2.2v / Ampérage requis 20mA
