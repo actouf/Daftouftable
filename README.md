@@ -21,12 +21,6 @@ le site web : http://code.google.com/p/tlc5940arduino/ DOC PDF TI tlc5940
 Code source de l’animation en bas de la page
 
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/1AoURgt6OxY" frameborder="0" allowfullscreen></iframe>
-
-
-
-
-
 
 
 daftouf table by actouf est mis à disposition selon les termes de la licence Creative Commons Paternité – Pas d’Utilisation Commerciale – Partage des Conditions Initiales à l’Identique 3.0 Unported.
